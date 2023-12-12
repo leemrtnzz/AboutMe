@@ -12,12 +12,13 @@ body {
  .wrapper {
     min-height : 100vh;
     width : 400px;
-    background : transparent;
-    backdrop-filter: blur(12px);
-    border : 5px solid rgba(255,255,255,.2);
-    box-shadow: 0 0 10px rgba (0, 0, 0, .2);
-    color : #fff;
-    border-radius : 10px;
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.19);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7.8px);
+    -webkit-backdrop-filter: blur(7.8px);
+    border: 1px solid rgba(255, 255, 255, 1);
     padding: 50px 50px;
     margin-left : auto;
     margin-right : auto;
@@ -113,12 +114,13 @@ body {
     .wrapper {
         min-height : 10px;
         width : 300px;
-        background : transparent;
-        backdrop-filter: blur(12px);
-        border : 5px solid rgba(255,255,255,.2);
-        box-shadow: 0 0 10px rgba (0, 0, 0, .2);
-        color : #fff;
-        border-radius : 10px;
+        /* From https://css.glass */
+        background: rgba(255, 255, 255, 0.19);
+        border-radius: 16px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(7.8px);
+        -webkit-backdrop-filter: blur(7.8px);
+        border: 1px solid rgba(255, 255, 255, 1);
         padding : 15px 15px;
     }
     .profile {
