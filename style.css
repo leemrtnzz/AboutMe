@@ -1,0 +1,103 @@
+body {
+     background: url(../img/bg.jpg) no-repeat center fixed;
+     -webkit-background-size : cover;
+     -moz-background-size : cover;
+     -0-background-size : cover;
+     background-size : cover;
+     color: #fff;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 15px;
+     letter-spacing: 2px;
+ }
+ .wrapper {
+    width : 400px;
+    background : transparent;
+    backdrop-filter: blur(12px);
+    border : 5px solid rgba(255,255,255,.2);
+    box-shadow: 0 0 10px rgba (0, 0, 0, .2);
+    color : #fff;
+    border-radius : 10px;
+    padding: 50px 50px;
+    margin-left : auto;
+    margin-right : auto;
+    margin-bottom : auto;
+ }
+ .profile {
+     border-radius: 50%;
+     display : block;
+     margin-left : auto;
+     margin-right: auto;
+     margin-top : 3%
+   }
+ .profile-picture {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 10%;
+     height: auto;
+     max-width: 150px;
+     border-radius:50%;
+   }
+.profile-name {
+    font-family: 'Afacad', sans-serif;
+    text-align : center;
+    margin-top : 1rem;
+    color : #DFC69DF;
+    font-size : 1.5rem;
+
+}
+ .username {
+       font-family: 'Afacad', sans-serif;
+       text-align: center;
+       font-size : 1rem;
+       margin-top : 1rem;
+       width : 120px;
+       padding : 10px 2px;
+       border : 2px solid white;
+       border-radius : 50px;
+       margin-left : auto;
+       margin-right : auto;
+   }
+
+ .links {
+       background : #DFC69D;
+       text-align: center;
+       margin-top: 20px;
+       padding: 20px;
+       border: 1px solid #32191F;
+       border-width: 2px;
+       width: 290px;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       border-radius: 40px;
+   }
+.quotes {
+    font-family: 'Lilita One', sans-serif;
+    font-style : italic;
+    text-align : center;
+    margin-top : 1rem;
+    color : #fff;
+}
+ a {
+     text-decoration: none;
+     color: #32191F;
+     transition: color 1s;
+ }
+
+ a:hover {
+     color: #fff;
+     background: #32191F;
+ }
+ .bottom-text {
+     text-align: center;
+     margin-top: 40px;
+     font-size: 20px;
+     font-weight: bold;
+ }
+
+
+ .euVideo {
+
+
+ }
