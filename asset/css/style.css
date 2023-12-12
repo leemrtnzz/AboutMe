@@ -10,6 +10,7 @@ body {
      letter-spacing: 2px;
  }
  .wrapper {
+    min-height : 100vh;
     width : 400px;
     background : transparent;
     backdrop-filter: blur(12px);
@@ -100,4 +101,36 @@ body {
  .euVideo {
 
 
+ }
+/*Laptop*/
+ @media (max-width : 992px) {
+ }
+/*Tablet*/
+ @media (max-width : 768px) {
+ }
+/*Mobile phone*/
+ @media (max-width : 576px) {
+    .wrapper {
+        min-height : 10px;
+        width : 300px;
+        padding : 15px 15px;
+    }
+    .profile {
+        height : 150px;
+        width : 150px;
+    }
+    .profile-name {
+        font-size : 1rem;
+    }
+    .username {
+        font-size : 0.8rem;
+        font-weight : bold;
+        border : 2px solid white;
+    }
+    .quotes {
+        font-size : 0.8rem;
+    }
+    .links {
+        width : 150px;
+    }
  }
