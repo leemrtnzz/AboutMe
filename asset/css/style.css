@@ -19,7 +19,7 @@ body {
     backdrop-filter: blur(5.2px);
     -webkit-backdrop-filter: blur(5.2px);
     border: 1px solid rgba(255, 255, 255, 1);
-    padding: 50px 50px;
+/*     padding: 50px 50px; */
     margin-left : auto;
     margin-right : auto;
     margin-bottom : auto;
