@@ -211,7 +211,7 @@ body {
         backdrop-filter: blur(5.2px);
         -webkit-backdrop-filter: blur(5.2px);
         border: 1px solid rgba(255, 255, 255, 1);
-        padding : 120px 150px;
+        padding : 60px 150px;
         margin-top: 100px;
     }
     .profile {
