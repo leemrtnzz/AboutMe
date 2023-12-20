@@ -203,7 +203,7 @@ body {
  @media (max-width : 1200px) {
     .wrapper {
         min-height : 10px;
-        width : 300px;
+        width : 100px;
         /* From https://css.glass */
         background: rgba(255, 255, 255, 0.05);
         border-radius: 16px;
