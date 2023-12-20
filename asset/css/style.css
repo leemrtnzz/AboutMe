@@ -211,7 +211,7 @@ body {
         backdrop-filter: blur(5.2px);
         -webkit-backdrop-filter: blur(5.2px);
         border: 1px solid rgba(255, 255, 255, 1);
-        padding : 60px 150px;
+        padding : 100px 150px;
         margin-top: 100px;
     }
     .profile {
@@ -236,7 +236,8 @@ body {
 
  .bottom-text {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-bottom: -60px;
     font-size: 2rem;
     font-weight: bold;
 }
