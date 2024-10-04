@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Nabi Adam AS",
+    "description": null,
+    "age": 930,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Surga",
+    "died_place": "India",
+    "holy_book": null,
+    "wife": [
+      {
+        "name": "Hawa",
+        "children": ["Qabil", "Habil", "Syits", "Azura"]
+      }
+    ]
+  },
+  {
+    "name": "Nabi Idris AS",
+    "description": null,
+    "age": 365,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Babilonia",
+    "died_place": "Surga",
+    "holy_book": "Shuhuf",
+    "wife": []
+  },
+  {
+    "name": "Nabi Nuh AS",
+    "description": null,
+    "age": 950,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Mesopotamia",
+    "died_place": "Judi (Gunung)",
+    "holy_book": "Shuhuf",
+    "wife": []
+  },
+  {
+    "name": "Nabi Hud AS",
+    "description": null,
+    "age": null,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Hadhramaut, Yaman",
+    "died_place": "Hadhramaut, Yaman",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Shaleh AS",
+    "description": null,
+    "age": null,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Arab",
+    "died_place": "Hadhramaut, Yaman",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Ibrahim AS",
+    "description": null,
+    "age": 175,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Ur, Babilonia",
+    "died_place": "Hebron, Palestina",
+    "holy_book": "Shuhuf",
+    "wife": [
+      {
+        "name": "Sarah",
+        "children": ["Ishaq"]
+      },
+      {
+        "name": "Hajar",
+        "children": ["Ismail"]
+      }
+    ]
+  },
+  {
+    "name": "Nabi Luth AS",
+    "description": null,
+    "age": null,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Ur, Babilonia",
+    "died_place": "Sodom",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Ismail AS",
+    "description": null,
+    "age": 137,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Hebron, Palestina",
+    "died_place": "Mekkah, Arab",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Ishaq AS",
+    "description": null,
+    "age": 180,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Hebron, Palestina",
+    "died_place": "Hebron, Palestina",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Yaqub AS",
+    "description": null,
+    "age": 147,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Kanaan",
+    "died_place": "Mesir",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Yusuf AS",
+    "description": null,
+    "age": 110,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Kanaan",
+    "died_place": "Mesir",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Ayub AS",
+    "description": null,
+    "age": 93,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Uz (Arab)",
+    "died_place": "Suriah",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Syu'aib AS",
+    "description": null,
+    "age": null,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Madyan",
+    "died_place": "Madyan",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Musa AS",
+    "description": null,
+    "age": 120,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Mesir",
+    "died_place": "Gunung Nebo, Yordania",
+    "holy_book": "Taurat",
+    "wife": []
+  },
+  {
+    "name": "Nabi Harun AS",
+    "description": null,
+    "age": 122,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Mesir",
+    "died_place": "Gunung Hor",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Dzulkifli AS",
+    "description": null,
+    "age": null,
+    "birth": null,
+    "deceased": null,
+    "birthplace": null,
+    "died_place": null,
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Dawud AS",
+    "description": null,
+    "age": 100,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Baitul Maqdis",
+    "died_place": "Baitul Maqdis",
+    "holy_book": "Zabur",
+    "wife": []
+  },
+  {
+    "name": "Nabi Sulaiman AS",
+    "description": null,
+    "age": 52,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Yerusalem",
+    "died_place": "Yerusalem",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Ilyas AS",
+    "description": null,
+    "age": null,
+    "birth": null,
+    "deceased": null,
+    "birthplace": null,
+    "died_place": null,
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Ilyasa AS",
+    "description": null,
+    "age": null,
+    "birth": null,
+    "deceased": null,
+    "birthplace": null,
+    "died_place": null,
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Yunus AS",
+    "description": null,
+    "age": null,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Niniwe",
+    "died_place": "Mosul",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Zakaria AS",
+    "description": null,
+    "age": 120,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Yerusalem",
+    "died_place": "Yerusalem",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Yahya AS",
+    "description": null,
+    "age": 34,
+    "birth": null,
+    "deceased": null,
+    "birthplace": "Yerusalem",
+    "died_place": "Yerusalem",
+    "holy_book": null,
+    "wife": []
+  },
+  {
+    "name": "Nabi Isa AS",
+    "description": null,
+    "age": 33,
+    "birth": "Yerusalem",
+    "deceased": null,
+    "birthplace": "Yerusalem",
+    "died_place": "Diangkat ke langit",
+    "holy_book": "Injil",
+    "wife": []
+  },
+  {
+    "name": "Nabi Muhammad SAW",
+    "description": "Rasul terakhir yang diutus oleh Allah.",
+    "age": 63,
+    "birth": "Senin, 570 M",
+    "deceased": "8 Juni 632 M / 9 Rabiul Awal 11 H",
+    "birthplace": "Mekah, Arab Saudi",
+    "died_place": "Madina",
+    "holy_book": "Al-Quran",
+    "wife": [
+      {
+        "name": "Khadijah binti Khuwailid",
+        "children": [
+          "Qasim",
+          "Abdullah",
+          "Zainab",
+          "Ruqayyah",
+          "Ummu Kulthum",
+          "Fatimah"
+        ]
+      },
+      {
+        "name": "Sawdah binti Zam'ah",
+        "children": []
+      },
+      {
+        "name": "Aisyah binti Abu Bakar",
+        "children": []
+      },
+      {
+        "name": "Hafsah binti Umar bin Khattab",
+        "children": []
+      },
+      {
+        "name": "Zainab binti Khuzaimah",
+        "children": []
+      },
+      {
+        "name": "Ummu Salamah (Hindun binti Abu Umayyah)",
+        "children": []
+      },
+      {
+        "name": "Zainab binti Jahsy",
+        "children": []
+      },
+      {
+        "name": "Juwairiyah binti Al-Harith",
+        "children": []
+      },
+      {
+        "name": "Ummu Habibah (Ramlah binti Abu Sufyan)",
+        "children": []
+      },
+      {
+        "name": "Safiyyah binti Huyay",
+        "children": []
+      },
+      {
+        "name": "Maimunah binti Al-Harith",
+        "children": []
+      },
+      {
+        "name": "Mariyah Al-Qibtiyah",
+        "children": ["Ibrahim"]
+      }
+    ]
+  }
+]
